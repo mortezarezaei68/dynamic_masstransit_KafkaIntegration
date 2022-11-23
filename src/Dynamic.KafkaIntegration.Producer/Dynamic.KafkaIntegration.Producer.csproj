@@ -4,7 +4,7 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RepositoryUrl>https://github.com/mortezarezaei68/SwaggerExampleAttrLibrary.git</RepositoryUrl>
+        <RepositoryUrl>https://github.com/mortezarezaei68/dynamic_masstransit_KafkaIntegration.git</RepositoryUrl>
         <Authors>Morteza Rezaei</Authors>
     </PropertyGroup>
     <ItemGroup>
