@@ -21,8 +21,6 @@ NuGet library:
 
 `dotnet add package Dynamic.KafkaIntegration.Producer --version 0.1.8`
 
-Install-Package Dynamic.KafkaIntegration.Producer -Version 0.1.21
-
 ## Guide
 
 ### STEP1:
