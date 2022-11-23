@@ -181,3 +181,6 @@ public class MarketingQueueMessageEndTopicPoint:TopicEndPoint<KafkaMessage>
 }
 ```
 and all of your configuration should register by reflective libraries and highly performance.
+
+if you need sample you can see this project:
+https://github.com/mortezarezaei68/.NET-micro-service
