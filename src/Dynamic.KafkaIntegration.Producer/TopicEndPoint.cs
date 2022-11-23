@@ -1,7 +1,7 @@
 using Confluent.Kafka;
 using MassTransit;
 
-namespace Framework.Masstransit.KafkaIntegration;
+namespace Dynamic.KafkaIntegration.Producer;
 
 public abstract class TopicEndPoint
     <TProducer> where TProducer : class, IKafkaProducer, new()

@@ -2,7 +2,7 @@ using System.Reflection;
 using Confluent.Kafka;
 using MassTransit;
 
-namespace Framework.Masstransit.KafkaIntegration;
+namespace Dynamic.KafkaIntegration.Producer;
 
 public static class KafkaTopicEndPointExtensions
 {

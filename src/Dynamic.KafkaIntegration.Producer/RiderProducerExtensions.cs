@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 using Confluent.Kafka;
 using MassTransit;
 
-namespace Framework.Masstransit.KafkaIntegration;
+namespace Dynamic.KafkaIntegration.Producer;
 
 public static class RiderProducerExtensions
 {

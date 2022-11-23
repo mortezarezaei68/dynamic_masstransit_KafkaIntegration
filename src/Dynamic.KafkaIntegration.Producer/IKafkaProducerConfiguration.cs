@@ -1,7 +1,7 @@
 using Confluent.Kafka;
 using MassTransit;
 
-namespace Framework.Masstransit.KafkaIntegration
+namespace Dynamic.KafkaIntegration.Producer
 {
     /// <summary>
     /// Set configuration and ProducerConfig

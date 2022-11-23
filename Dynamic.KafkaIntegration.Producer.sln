@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Masstransit.KafkaIntegration", "src\Framework.Masstransit.KafkaIntegration\Framework.Masstransit.KafkaIntegration.csproj", "{210408B3-09EB-4E24-8B08-3325D54E80D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic.KafkaIntegration.Producer", "src\Dynamic.KafkaIntegration.Producer\Dynamic.KafkaIntegration.Producer.csproj", "{210408B3-09EB-4E24-8B08-3325D54E80D3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{05F31AE8-2ED1-40BF-8BF6-601B0434709E}"
 EndProject

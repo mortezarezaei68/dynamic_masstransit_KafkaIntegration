@@ -1,4 +1,4 @@
-namespace Framework.Masstransit.KafkaIntegration;
+namespace Dynamic.KafkaIntegration.Producer;
 
 /// <summary>
 /// Producers should inherit from IKafkaProducer
