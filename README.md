@@ -19,6 +19,8 @@ Microsoft.Extensions.DependencyInjection.Abstractions 6.0.0
 Dynamic.KafkaIntegration.Producer is now available in NuGet.  
 NuGet library:
 
+`dotnet add package Dynamic.KafkaIntegration.Producer --version 0.1.8`
+
 Install-Package Dynamic.KafkaIntegration.Producer -Version 0.1.21
 
 ## Guide
